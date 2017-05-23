@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <!--数据库名字-->
+    <dbname value="CardStore" ></dbname>
+
+    <version value="1" ></version>
+
+    <list>
+        <mapping class="com.cs.week.entry.DateSqlListResult"></mapping>
+        <mapping class="com.cs.week.entry.DateRegistResult"></mapping>
+    </list>
+</litepal>

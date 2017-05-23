@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F23A3A</color>
+    <color name="colorPrimaryDark">#F23A3A</color>
+    <!--<color name="colorPrimaryDark">#C9182B</color>-->
+    <color name="colorAccent">#44C662</color>
+
+    <color name="fabRippleColor">#3FFF</color>
+
+    <!--Priority Colors-->
+    <color name="priority_blue">#20cbff</color>
+    <color name="priority_green">#99CC00</color>
+    <color name="priority_yellow">#FFCC33</color>
+    <color name="priority_red">#FF0033</color>
+    <color name="iv_mask_new_act">#0000</color>
+    <color name="iv_mask_task_item">#CFFF</color>
+    <color name="color_mask_icon_task_item">#6FFF</color>
+    <color name="pink">#fc0ccc</color>
+    <color name="darkblue">#07187b</color>
+
+    <color name="listTitle">#D000</color>
+    <color name="listContent">#A000</color>
+
+    <color name="black_33">#333333</color>
+    <color name="half_transparent_black">#BB000000</color>
+    <color name="light_black">#141414</color>
+    <color name="line_and_outline_grey">#d9d9d9</color>
+    <color name="white">#fffdfd</color>
+</resources>
